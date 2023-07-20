@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tobi-ik
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on project related to Big Data
+- 👀 I’m a web developer by day
+- 🌱 I’m a Master Student by night
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me? via LinkedIn /tobi-ik
 
 <!---
