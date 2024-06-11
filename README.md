@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tobi-ik
-- 👀 I’m a web developer by day
+- 👀 I’m a digital solution developer by day
 - 🌱 I’m a student by night
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me? via LinkedIn /tobi-ik
