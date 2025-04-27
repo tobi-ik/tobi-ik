@@ -1,7 +1,7 @@
-👋🏽 Hi, I’m Tobi
-💼 A digital professional by day
-⚙️ A student by night
-🙌🏽 Open to collaborate on projects
+👋🏽 Hi, I’m Tobi<br>
+💼 A digital professional by day<br>
+⚙️ A student by night<br>
+🙌🏽 Open to collaborate on projects<br>
 🤝🏽 Happy to connect on LinkedIn: https://www.linkedin.com/in/tobi-ik
 
 <!---
