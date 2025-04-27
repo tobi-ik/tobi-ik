@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @tobi-ik
-- 👀 I’m a digital solution developer by day
-- 🌱 I’m a student by night
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me? via LinkedIn /tobi-ik
+👋🏽 Hi, I’m Tobi
+💼 A digital professional by day
+⚙️ A student by night
+🙌🏽 Open to collaborate on projects
+🤝🏽 Happy to connect on LinkedIn: https://www.linkedin.com/in/tobi-ik
 
 <!---
 tobi-ik/readMe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
